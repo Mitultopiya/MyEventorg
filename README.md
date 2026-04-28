@@ -71,13 +71,6 @@ A production-ready full-stack QR-based ticketing system with offline support, mu
 
 See `.env.example` for all required variables.
 
-## Deployment
-
-Deploy to Vercel:
-
-```bash
-vercel
-```
 
 ## Routes
 
@@ -88,14 +81,3 @@ vercel
 - `/admin` - Admin login & dashboard
 - `/admin/scanner` - QR scanner
 - `/super-admin` - Super admin panel
-
-## Default Super Admin Credentials
-
-Email: `nk10nikhil@gmail.com`
-Password: `nk10nikhil`
-
-**Change these after first login!**
-
-## License
-
-MIT
